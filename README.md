@@ -1,15 +1,4 @@
-## CARA INSTALL Project INI
+## API UNTUK APLIKASI MOBILE TWS, Bookking Lapangan
+![image](https://github.com/user-attachments/assets/cfc225a5-2c83-4e69-a5bd-1368dfc0e3b8)
 
-1. Repo Project ini -> Masukkan Ke Folder ' htdocs ' Masing - Masing
-2. Setelah itu bikin satu database baru di phpmyadmin, Bebas mau apa aja .. Jangan lupa pada "database.php" Disetting dlu nama DB kalian yang tadi dibuat Apa
-3. Abis itu install Query pada Folder ini "peers.sql" 
-4. Setelah Itu, Selamat Beroprak Aprik
-
-
-
-
-API List Sementara : <br/> <br/>
-
-GET : /api/user  -> Untuk Mengambil List disaat Login <br/>
-POST : /api/registrasi -> Untuk User baru yang Registrasi, Jika sudah nanti masuk ke /api/user <br/>
-POST : /api/login -> Untuk Login User yang sudah registrasi
+![image](https://github.com/user-attachments/assets/95fabb6a-2099-46d8-8c35-f15787085da9)
