@@ -131,7 +131,7 @@ $this->load->library('session');
                 <li><a href="<?= site_url('/api/user'); ?>">GET DATA USER</a></li>
                 <li><a href="<?= site_url('/api/product/PUT_item'); ?>">PUT UNTUK ITEM</a></li>
                 <li><a href="<?= site_url('/api/product/GET_item'); ?>">GET Daftar Produk</a></li>
-                <li><a href="<?= site_url('api/DemoControl'); ?>">(DEMO) LIHAT HALAMAN PRODUK</a></li>
+                <li><a href="<?= site_url('DemoControl'); ?>">(DEMO) LIHAT HALAMAN PRODUK</a></li>
             <!-- <?php if (!isset($apiKey) || empty($apiKey)) : ?>
                 <div class="alert alert-warning" role="alert">API Key is missing!</div>
             <?php endif; ?> -->
